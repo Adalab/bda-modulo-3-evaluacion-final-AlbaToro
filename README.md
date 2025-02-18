@@ -7,9 +7,9 @@
 
 - Ejecutar el código.
 
-## Fases:
+# Fases:
 
-# Fase 1: Exploración y Limpieza
+## Fase 1: Exploración y Limpieza
 - Exploración Inicial:
 Realiza una exploración inicial de los datos para identificar posibles problemas, como valores
 nulos, atípicos o datos faltantes en las columnas relevantes.
@@ -24,7 +24,7 @@ presenten de forma coherente.
 Realiza cualquier ajuste o conversión necesaria en las columnas (por ejemplo, cambiar tipos de
 datos) para garantizar la adecuación de los datos para el análisis estadístico.
 
-# Fase 2: Visualización
+## Fase 2: Visualización
 Usando las herramientas de visualización que has aprendido durante este módulo, contesta a las siguientes
 gráficas usando la mejor gráfica que consideres:
 - ¿Cómo se distribuye la cantidad de vuelos reservados por mes durante el año?
@@ -34,5 +34,5 @@ gráficas usando la mejor gráfica que consideres:
 - ¿Cuál es la proporción de clientes con diferentes tipos de tarjetas de fidelidad?
 - ¿Cómo se distribuyen los clientes según su estado civil y género?
 
-## Ejercicio realizado por:
+# Ejercicio realizado por:
 Alba Toro Veiga (ANecora)
